@@ -27,13 +27,11 @@ Lab: 3402 Meyer hall, (530) 752-3973
 jwkkang@ucdavis.edu  
 
 **Christopher Rhodes**  
-Graduate Student  
-Graduate Group in Nutritional Biology  
+Post-doc  
 Lab: 3402 Meyer hall, (530) 752-3973  
 chrhodes@ucdavis.edu	
 
 **Chenghao (Trevor) Zhu**  
-Graduate Student  
-Graduate Group in Nutritional Biology  
+Post-doc  
 Lab: 3402 Meyer hall, (530) 752-3973  
 chhzhu@ucdavis.edu

@@ -1,5 +1,5 @@
 ---
-title: "Zivkovic Lab"
+title: "Home"
 featured_image: '/images/mondavi-center.jpg'
 description: "University of California, Davis"
 ---
